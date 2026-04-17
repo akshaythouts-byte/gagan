@@ -6,4 +6,3 @@ SRE
 Grafana
 linux and network
 Kubernet
-gagan
