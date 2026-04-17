@@ -4,3 +4,5 @@ Terraform
 Docker
 SRE
 Grafana
+linux and network
+Kubernet
